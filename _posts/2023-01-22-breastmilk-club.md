@@ -12,6 +12,7 @@ initi2l: br
 ### Mods
  * @marine
  * @VD15
+ * @captain_arepa
 
 ### Sites popular with administration
 
